@@ -1,0 +1,22 @@
+
+.filaCabecera{
+
+    background-color: #333333;
+    color: white;
+    text-decoration: none;
+
+}
+
+img {
+
+    -o-object-fit: cover;
+     object-fit: cover;
+  }
+
+  li{
+    list-style:none;
+  }
+
+  h5{
+    font: bold;
+  }
